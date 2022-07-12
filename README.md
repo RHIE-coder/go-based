@@ -1,2 +1,3 @@
-# go-related
-About Golang
+# Golang
+
+## [langauge](./langauge/README.md)
